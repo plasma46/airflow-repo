@@ -1,0 +1,7 @@
+Host airflow-server
+  HostName 85.239.39.236
+  User root
+  Port 22
+  # IdentityFile C:\Users\YourUser\.ssh\id_rsa
+  # ServerAliveInterval 60
+  # ServerAliveCountMax 3

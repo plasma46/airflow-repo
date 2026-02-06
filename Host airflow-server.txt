@@ -1,0 +1,4 @@
+Host airflow-server
+    HostName 85.239.39.236
+    User root
+    Port 22
